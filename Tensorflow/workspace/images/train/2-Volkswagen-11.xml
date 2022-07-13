@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vw</folder>
+	<filename>2-Volkswagen-11.jpg</filename>
+	<path>G:\My Drive\Tensorflow\workspace\training_demo\images\vw\2-Volkswagen-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>98</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>102</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>
