@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>v3.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Real Time Object Detection\Tensorflow\workspace\images\train\v3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4953</width>
+		<height>4269</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>503</ymin>
+			<xmax>4014</xmax>
+			<ymax>4115</ymax>
+		</bndbox>
+	</object>
+</annotation>

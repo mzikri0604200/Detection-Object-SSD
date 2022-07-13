@@ -1,8 +1,8 @@
-item { 
-	name:'Volkswagen'
+item{
+	name:'Hyundai'
 	id:1
 }
-item { 
-	name:'Hyundai'
+item{
+	name:'Volkswagen'
 	id:2
 }

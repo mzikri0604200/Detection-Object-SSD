@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Real Time Object Detection\Tensorflow\workspace\images\test\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2374</width>
+		<height>4600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>113</ymin>
+			<xmax>2306</xmax>
+			<ymax>4547</ymax>
+		</bndbox>
+	</object>
+</annotation>

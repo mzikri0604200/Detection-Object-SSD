@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Volkswagen</folder>
+	<filename>19.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Real Time Object Detection\Tensorflow\workspace\images\imageCollection\Volkswagen\19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>885</ymin>
+			<xmax>1747</xmax>
+			<ymax>1893</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1935</xmin>
+			<ymin>943</ymin>
+			<xmax>3143</xmax>
+			<ymax>1993</ymax>
+		</bndbox>
+	</object>
+</annotation>
