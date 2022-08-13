@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29-tes</folder>
+	<filename>Tesla44.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\29-tes\Tesla44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tesla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>600</ymin>
+			<xmax>865</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>

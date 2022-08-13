@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22-pg</folder>
+	<filename>Peugeot9.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\22-pg\Peugeot9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2303</width>
+		<height>2110</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peugeot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>118</ymin>
+			<xmax>1369</xmax>
+			<ymax>855</ymax>
+		</bndbox>
+	</object>
+</annotation>

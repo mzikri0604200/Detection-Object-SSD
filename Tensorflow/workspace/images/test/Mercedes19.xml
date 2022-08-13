@@ -1,0 +1,26 @@
+<annotation>
+	<folder>17-mer</folder>
+	<filename>Mercedes19.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\17-mer\Mercedes19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2303</width>
+		<height>1443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mercedes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>107</ymin>
+			<xmax>1493</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

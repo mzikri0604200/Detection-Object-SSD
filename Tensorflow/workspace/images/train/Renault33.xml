@@ -1,0 +1,26 @@
+<annotation>
+	<folder>23-ren</folder>
+	<filename>Renault33.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\23-ren\Renault33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2303</width>
+		<height>1354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Renault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>104</ymin>
+			<xmax>1490</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>

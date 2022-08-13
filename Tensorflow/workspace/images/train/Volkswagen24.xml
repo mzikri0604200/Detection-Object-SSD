@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-vw</folder>
+	<filename>Volkswagen24.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\2-vw\Volkswagen24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4953</width>
+		<height>4269</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>309</ymin>
+			<xmax>4476</xmax>
+			<ymax>4040</ymax>
+		</bndbox>
+	</object>
+</annotation>

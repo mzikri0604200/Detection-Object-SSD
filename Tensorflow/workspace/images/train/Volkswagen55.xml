@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-vw</folder>
+	<filename>Volkswagen55.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\2-vw\Volkswagen55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Volkswagen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>1079</ymin>
+			<xmax>1393</xmax>
+			<ymax>2043</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-hy</folder>
+	<filename>Hyundai24.jpg</filename>
+	<path>D:\zikri\Dataset\done\3-hy\Hyundai24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4105</width>
+		<height>2422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hyundai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>150</ymin>
+			<xmax>3990</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+</annotation>

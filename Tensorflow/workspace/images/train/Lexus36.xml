@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15-lex</folder>
+	<filename>Lexus36.jpg</filename>
+	<path>D:\Users\Public\Downloads\STIKOM CKI\Semester 8\Skripsi\Dataset\done\15-lex\Lexus36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lexus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>712</xmin>
+			<ymin>100</ymin>
+			<xmax>1517</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+</annotation>
